@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  font-family: Segoe Print;
+}
+
+.about {
+  width: 50%;
+  border: 2px solid lightblue;
+  margin-bottom: 5%;
+  margin: auto;
+}
+
+.projects {
+  width: 50%;
+  border: 2px solid lightcoral;
+  margin: auto;
+}
+
+ul { sans-serif;
+  max-width: 60%;
+  margin-left:auto;
+}
+
+li{
+  max-width:100px;
+}
